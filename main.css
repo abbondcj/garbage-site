@@ -1,1 +1,10 @@
-/* @import url("./styles/navbar.css"); */
+@import url("./styles/navbar.css");
+.batman
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color: greenyellow;
+
+
+}

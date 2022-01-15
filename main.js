@@ -1,3 +1,3 @@
-import { navbar } from "./scripts/navbar.js";
+// import { navbar } from "./scripts/navbar.js";
 
-navbar();
+// navbar();

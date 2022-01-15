@@ -12,7 +12,7 @@ export const navbar = () => {
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link" href="./index.html">Chris</a></li>
                     <li class="nav-item"><a class="nav-link" href="./projects.html">Emily</a></li>
-                    <li class="nav-item"><a class="nav-link" href="./resume.html">Kara</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./batmanrobin.html">Kara</a></li>
                     <li class="nav-item"><a class="nav-link" href="./contact.html">Sarah<a/></li>
                 </ul>
             </div>

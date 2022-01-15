@@ -1,3 +1,10 @@
 h1{
     text-align: center
+    border-color yellow
+    border-style dotted
+
+}
+body{
+    background-color: black;
+    color: white
 }

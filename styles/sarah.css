@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Nanum+Brush+Script&display=swap');
+font-family: 'Comic Neue', cursive;
+font-family: 'Nanum Brush Script', cursive;
+body {
+    background: #CCCDC8;
+}
+h1 {
+    font-family: 'Nanum Brush Script', cursive;
+    color: 264040;
+}
+
+body {
+    font-family: 'Comic Neue', cursive;
+    color: 82b3ac;
+}

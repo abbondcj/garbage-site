@@ -1,6 +1,5 @@
 // create navbar object to be displayed as html on page
 
-
 export const navbar = () => {
     let navInsert = document.getElementById("nav")
     navInsert.innerHTML = `

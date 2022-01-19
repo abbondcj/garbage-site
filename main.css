@@ -1,1 +1,15 @@
-@import url("./styles/navbar.css");
+
+/* @import url("./styles/navbar.css"); */
+
+@import url("./styles/chrisPage.css");
+
+.batman
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color: greenyellow;
+
+
+}
+
